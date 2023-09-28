@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListExample",
+            "request": "launch",
+            "mainClass": "LinkedListExample",
+            "projectName": "DSA_175c1f96"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

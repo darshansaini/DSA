@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class Main
+public class HashExample
 {
 	public static void main(String[] args) {
 	    
